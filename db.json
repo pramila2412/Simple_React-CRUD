@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstName": "harish",
+      "lastName": "kumar",
+      "email": "harishkumar@gmail.com",
+      "phone": "9876543210",
+      "address": "123, main road, chennai",
+      "id": 2
+    },
+    {
+      "firstName": "dinesh",
+      "lastName": "kumar",
+      "email": "dinesh@gmail.com",
+      "phone": "9087656433",
+      "address": "123, tnagar, chennai",
+      "id": 3
+    }
+  ]
+}
